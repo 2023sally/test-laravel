@@ -1,0 +1,23 @@
+body {
+    max-width: 1230px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.body__inner {
+    padding-top: 35%;
+    padding-bottom: 40px;
+}
+
+.form__button-submit {
+    padding: 20px;
+    margin-top: 20px;
+    width: 20%;
+    height: 55px;
+    border: none;
+    border-radius: 5px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}

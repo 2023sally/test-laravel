@@ -1,0 +1,199 @@
+.header__inner {
+    margin-bottom: 30px;
+}
+
+.header__inner-title {
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.form {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.form__group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.form__group-title {
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.form__label--required {
+    color: red;
+}
+
+.form__input-text {
+    margin-right: -90px;
+}
+
+.last-name,
+.first-name {
+    padding: 10px;
+    width: 255px;
+    height: 25px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.last-name {
+    margin-right: 30px;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__group-name {
+    display: flex;
+    justify-content: center;
+    color: #ddd;
+    margin-bottom: 20px;
+    margin-top: -15px;
+}
+
+.form__group-name--left {
+    margin-right: 200px;
+    position: relative;
+    left: -90px;
+    top: -5px;
+}
+
+.form__group-name--right {
+    position: relative;
+    left: -50px;
+    top: -5px;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 390px;
+}
+
+.form__input-text--box {
+    margin-right: 160px;
+}
+
+.form__input-text--box input,
+.form__input-opinion--textarea textarea {
+    padding: 10px;
+    width: 560px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+
+    appearance: none;
+}
+
+.form__input-text--box input {
+    height: 30px;
+    margin-left: 10px;
+}
+
+.form__group-email {
+    color: #ddd;
+    margin-right: 325px;
+    margin-bottom: 30px;
+    margin-top: -20px;
+}
+
+.form__input-text--numbers {
+    margin-right: 94px;
+}
+
+.mark {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+
+.form__postcode-item--button {
+    width: 530px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-left: 20px;
+
+    appearance: none;
+}
+
+.form__group-numbers {
+    color: #ddd;
+    margin-top: -15px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+}
+
+.form__input-text--address {
+    margin-right: 145px;
+}
+
+.form__input-text--address-inner {
+    width: 560px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-left: 90px;
+    appearance: none;
+}
+
+.form__group-address {
+    color: #ddd;
+    margin-right: 260px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
+
+.form__input-text--box-building {
+    margin-right: 305px;
+}
+
+.form__input-text--box-building-inner {
+    width: 560px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-left: 90px;
+    appearance: none;
+}
+
+.form__group-building--inner {
+    color: #ddd;
+    margin-right: 280px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
+
+.form__input-opinion {
+    margin-right: 120px;
+}
+
+.form__input-opinion--textarea textarea {
+    height: 180px;
+}
+
+.form__button {
+    margin-bottom: 10px;
+}
+
+.form__button-submit {
+    padding: 20px;
+    margin-top: 20px;
+    width: 20%;
+    height: 55px;
+    border: none;
+    border-radius: 5px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
